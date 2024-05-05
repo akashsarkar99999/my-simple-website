@@ -1,0 +1,31 @@
+body{
+
+    font-family: "Freeman", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+}
+
+.sec{
+    display:flex;
+    padding: 5%;
+   background-image: url(../images/wave.svg);
+   background-repeat: no-repeat;
+}
+.haff{
+    width:50%;
+}
+img{
+    width: 80%;
+}
+ .btn{
+  text-decoration: none;  
+  background-image: linear-gradient(blue,blueviolet) ;
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: white;
+  
+ }
+ .iam{
+    color:white;
+ }
